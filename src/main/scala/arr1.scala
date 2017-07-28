@@ -1,0 +1,3 @@
+object arr1 {
+
+}
